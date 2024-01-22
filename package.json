@@ -1,0 +1,22 @@
+{
+  "name": "oauthnodejsbackend",
+  "version": "1.0.0",
+  "description": "OAuth NodeJS Backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TarunMathur1990/OAuthNodeJSBackend.git"
+  },
+  "keywords": [
+    "OAuth"
+  ],
+  "author": "Tarun Mathur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarunMathur1990/OAuthNodeJSBackend/issues"
+  },
+  "homepage": "https://github.com/TarunMathur1990/OAuthNodeJSBackend#readme"
+}
